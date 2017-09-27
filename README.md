@@ -21,6 +21,7 @@ Collection many tips for development.
 - Dialog, Progress similar iOS:
   + https://github.com/Samehadar/IOSDialog
   + https://github.com/MagicDog707/iOSDialog
+  + https://github.com/Kaopiz/KProgressHUD
 
 ## License
 
