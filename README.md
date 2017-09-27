@@ -22,6 +22,7 @@ Collection many tips for development.
   + https://github.com/Samehadar/IOSDialog
   + https://github.com/MagicDog707/iOSDialog
   + https://github.com/Kaopiz/KProgressHUD
+  + https://github.com/t-kurimura/flickabledialog (Drag dialog)
 
 ## License
 
