@@ -23,6 +23,10 @@ Collection many tips for development.
   + https://github.com/MagicDog707/iOSDialog
   + https://github.com/Kaopiz/KProgressHUD
   + https://github.com/t-kurimura/flickabledialog (Drag dialog)
+  
+## Image
+- Circle image with Picasso
+  + https://stackoverflow.com/questions/26112150/android-create-circular-image-with-picasso
 
 ## License
 
