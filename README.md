@@ -27,6 +27,11 @@ Collection many tips for development.
 ## Image
 - Circle image with Picasso
   + https://stackoverflow.com/questions/26112150/android-create-circular-image-with-picasso
+  
+## Pass data 
+- With Seriable
+  + https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable
+
 
 ## License
 
