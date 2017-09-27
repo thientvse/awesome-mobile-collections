@@ -13,6 +13,10 @@ Collection many tips for development.
 - Underline Text:
   + https://stackoverflow.com/questions/5645789/how-to-set-underline-text-on-textview
   + https://stackoverflow.com/questions/2394935/can-i-underline-text-in-an-android-layout
+  
+- Hide soft keyboard when click outside edittext:
+  + https://stackoverflow.com/questions/4165414/how-to-hide-soft-keyboard-on-android-after-clicking-outside-edittext
+  
 
 
 ## License
