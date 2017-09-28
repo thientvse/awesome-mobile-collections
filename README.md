@@ -32,6 +32,11 @@ Collection many tips for development.
 - With Seriable
   + https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable
 
+## Animation View
+- Show/hide layout in android:
+  + https://colinyeoh.wordpress.com/2012/10/07/simple-android-animation-on-view-gonevisible/
+
+
 
 ## License
 
