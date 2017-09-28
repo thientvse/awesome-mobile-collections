@@ -31,6 +31,8 @@ Collection many tips for development.
 ## Pass data 
 - With Seriable
   + https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable
+- With Eventbus
+  + https://tutorialwing.com/android-eventbus-library-example/
 
 ## Animation View
 - Show/hide layout in android:
