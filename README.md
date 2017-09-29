@@ -33,6 +33,8 @@ Collection many tips for development.
   + https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable
 - With Eventbus
   + https://tutorialwing.com/android-eventbus-library-example/
+- Start Activity for Result
+  + https://stackoverflow.com/questions/15662258/how-to-save-a-bitmap-on-internal-storage
 
 ## Animation View
 - Show/hide layout in android:
