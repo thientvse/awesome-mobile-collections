@@ -23,6 +23,9 @@ Collection many tips for development.
   + https://github.com/MagicDog707/iOSDialog
   + https://github.com/Kaopiz/KProgressHUD
   + https://github.com/t-kurimura/flickabledialog (Drag dialog)
+ - Signature view in android
+  + https://github.com/zahid-ali-shah/SignatureView
+ 
   
 ## Image
 - Circle image with Picasso
