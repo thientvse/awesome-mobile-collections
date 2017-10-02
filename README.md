@@ -46,6 +46,11 @@ Collection many tips for development.
 ## Text, Edditext
 - Disable edit/unable edit in edditext
   + https://stackoverflow.com/questions/4297763/disabling-of-edittext-in-android
+  
+## JSON
+- Auto generate Object from JSON
+  + http://www.jsonschema2pojo.org/
+
 
 
 ## License
