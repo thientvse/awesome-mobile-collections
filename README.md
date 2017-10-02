@@ -43,6 +43,9 @@ Collection many tips for development.
 - Show/hide layout in android:
   + https://colinyeoh.wordpress.com/2012/10/07/simple-android-animation-on-view-gonevisible/
 
+## Text, Edditext
+- Disable edit/unable edit in edditext
+ + https://stackoverflow.com/questions/4297763/disabling-of-edittext-in-android
 
 
 ## License
