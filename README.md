@@ -24,7 +24,7 @@ Collection many tips for development.
   + https://github.com/Kaopiz/KProgressHUD
   + https://github.com/t-kurimura/flickabledialog (Drag dialog)
  - Signature view in android
-  + https://github.com/zahid-ali-shah/SignatureView
+   + https://github.com/zahid-ali-shah/SignatureView
  
   
 ## Image
@@ -45,7 +45,7 @@ Collection many tips for development.
 
 ## Text, Edditext
 - Disable edit/unable edit in edditext
- + https://stackoverflow.com/questions/4297763/disabling-of-edittext-in-android
+  + https://stackoverflow.com/questions/4297763/disabling-of-edittext-in-android
 
 
 ## License
