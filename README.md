@@ -17,6 +17,10 @@ Collection many tips for development.
 - Hide soft keyboard when click outside edittext:
   + https://stackoverflow.com/questions/4165414/how-to-hide-soft-keyboard-on-android-after-clicking-outside-edittext
   
+## Activity, Fragment
+- Replace fragment with fragment
+  + https://stackoverflow.com/questions/11619573/fragment-add-or-replace-not-working
+  
 ## Lib Android
 - Dialog, Progress similar iOS:
   + https://github.com/Samehadar/IOSDialog
