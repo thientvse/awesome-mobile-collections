@@ -52,6 +52,10 @@ Collection many tips for development.
 ## JSON
 - Auto generate Object from JSON
   + http://www.jsonschema2pojo.org/
+## ArrayList, List, HashMap
+- Group object with id
+  + https://stackoverflow.com/questions/21678430/group-a-list-of-objects-by-an-attribute-java
+
 
 
 
