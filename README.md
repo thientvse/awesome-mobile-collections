@@ -59,6 +59,10 @@ Collection many tips for development.
 ## ArrayList, List, HashMap
 - Group object with id
   + https://stackoverflow.com/questions/21678430/group-a-list-of-objects-by-an-attribute-java
+  
+## String
+= How to split a string in Java
+ + https://stackoverflow.com/questions/3481828/how-to-split-a-string-in-java
 
 
 
