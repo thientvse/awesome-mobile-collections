@@ -61,8 +61,12 @@ Collection many tips for development.
   + https://stackoverflow.com/questions/21678430/group-a-list-of-objects-by-an-attribute-java
   
 ## String
-= How to split a string in Java
+- How to split a string in Java
  + https://stackoverflow.com/questions/3481828/how-to-split-a-string-in-java
+ 
+## Proguard
+- Proguard snippet
+ + https://github.com/krschultz/android-proguard-snippets
 
 
 
