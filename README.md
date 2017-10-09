@@ -20,6 +20,8 @@ Collection many tips for development.
 ## Activity, Fragment
 - Replace fragment with fragment
   + https://stackoverflow.com/questions/11619573/fragment-add-or-replace-not-working
+- Animation slide activity:
+  + https://github.com/ppamorim/Dragger
   
 ## Lib Android
 - Dialog, Progress similar iOS:
