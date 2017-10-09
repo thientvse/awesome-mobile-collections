@@ -62,11 +62,11 @@ Collection many tips for development.
   
 ## String
 - How to split a string in Java
- + https://stackoverflow.com/questions/3481828/how-to-split-a-string-in-java
+  + https://stackoverflow.com/questions/3481828/how-to-split-a-string-in-java
  
 ## Proguard
 - Proguard snippet
- + https://github.com/krschultz/android-proguard-snippets
+  + https://github.com/krschultz/android-proguard-snippets
 
 
 
