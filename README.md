@@ -69,6 +69,10 @@ Collection many tips for development.
 ## Proguard
 - Proguard snippet
   + https://github.com/krschultz/android-proguard-snippets
+  
+## Recycler view
+- Endless recycler view:
+  + https://stackoverflow.com/questions/26543131/how-to-implement-endless-list-with-recyclerview
 
 
 
