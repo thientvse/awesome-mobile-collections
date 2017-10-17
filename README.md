@@ -73,6 +73,7 @@ Collection many tips for development.
 ## Recycler view
 - Endless recycler view:
   + https://stackoverflow.com/questions/26543131/how-to-implement-endless-list-with-recyclerview
+  + https://gist.github.com/nesquena/8a976dd3d6f866518db2cfe7f9cb0db7
 
 
 
