@@ -54,6 +54,8 @@ Collection many tips for development.
   + https://stackoverflow.com/questions/4297763/disabling-of-edittext-in-android
 - Set postision cursor
   + https://stackoverflow.com/questions/8035107/how-to-set-cursor-position-in-edittext
+- Single line with 3 dots
+  + https://stackoverflow.com/questions/10748796/android-how-to-limit-width-of-textview-and-add-three-dots-at-the-end-of-text
   
 ## JSON
 - Auto generate Object from JSON
