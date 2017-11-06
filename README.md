@@ -29,6 +29,8 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
   + https://stackoverflow.com/questions/11619573/fragment-add-or-replace-not-working
 - Animation slide activity:
   + https://github.com/ppamorim/Dragger
+- Tranference activity
+  + https://stackoverflow.com/questions/16332064/how-to-create-transparent-activity-in-android
   
 ## Lib Android
 - Dialog, Progress similar iOS:
