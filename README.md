@@ -8,6 +8,10 @@ Pull requests are welcome!
 
 I'd like to improve this library with your help! If you've fixed a bug or have a feature you've added, just create a pull request. Issues can be reported on the github issue tracker.
 
+## Android Studio
+- Config color log in android studio:
+  + https://stackoverflow.com/questions/19933731/colored-logcat-in-android-studio-by-colorpid
+
 ## Android Element
 - Change font in Textview, Edittext easily : 
   + https://stackoverflow.com/questions/12128331/how-to-change-fontfamily-of-textview-in-android
