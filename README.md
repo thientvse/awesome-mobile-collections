@@ -11,7 +11,8 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 ## Android Studio
 - Config color log in android studio:
   + https://stackoverflow.com/questions/19933731/colored-logcat-in-android-studio-by-colorpid
-
+- Create live template
+  + https://riggaroo.co.za/create-live-templates-android-studio/
 ## Android Element
 - Change font in Textview, Edittext easily : 
   + https://stackoverflow.com/questions/12128331/how-to-change-fontfamily-of-textview-in-android
