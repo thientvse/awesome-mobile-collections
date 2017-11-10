@@ -30,6 +30,8 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
   + https://stackoverflow.com/questions/4165414/how-to-hide-soft-keyboard-on-android-after-clicking-outside-edittext
   
 ## Activity, Fragment
+- Activity Life cycle
+  + https://stackoverflow.com/questions/8515936/android-activity-life-cycle-what-are-all-these-methods-for
 - Replace fragment with fragment
   + https://stackoverflow.com/questions/11619573/fragment-add-or-replace-not-working
 - Animation slide activity:
