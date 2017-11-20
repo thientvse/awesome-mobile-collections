@@ -72,6 +72,8 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
   + https://stackoverflow.com/questions/8035107/how-to-set-cursor-position-in-edittext
 - Single line with 3 dots
   + https://stackoverflow.com/questions/10748796/android-how-to-limit-width-of-textview-and-add-three-dots-at-the-end-of-text
+- Font with Text
+  + https://stackoverflow.com/questions/12128331/how-to-change-fontfamily-of-textview-in-android
   
 ## JSON
 - Auto generate Object from JSON
