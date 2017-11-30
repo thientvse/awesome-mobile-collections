@@ -38,6 +38,8 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
   + https://github.com/ppamorim/Dragger
 - Tranference activity
   + https://stackoverflow.com/questions/16332064/how-to-create-transparent-activity-in-android
+- Create Splash screen
+  + https://stackoverflow.com/questions/5486789/how-do-i-make-a-splash-screen
   
 ## Lib Android
 - Dialog, Progress similar iOS:
