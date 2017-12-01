@@ -22,42 +22,31 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 - [Hide soft keyboard when click outside edittext](https://stackoverflow.com/questions/4165414/how-to-hide-soft-keyboard-on-android-after-clicking-outside-edittext)
   
 ## Activity, Fragment
-- Activity Life cycle
-  + https://stackoverflow.com/questions/8515936/android-activity-life-cycle-what-are-all-these-methods-for
-- Replace fragment with fragment
-  + https://stackoverflow.com/questions/11619573/fragment-add-or-replace-not-working
-- Animation slide activity:
-  + https://github.com/ppamorim/Dragger
-- Tranference activity
-  + https://stackoverflow.com/questions/16332064/how-to-create-transparent-activity-in-android
-- Create Splash screen
-  + https://stackoverflow.com/questions/5486789/how-do-i-make-a-splash-screen
+- [Activity Life cycle](https://stackoverflow.com/questions/8515936/android-activity-life-cycle-what-are-all-these-methods-for)
+- [Replace fragment with fragment](https://stackoverflow.com/questions/11619573/fragment-add-or-replace-not-working)
+- [Animation slide activity](https://github.com/ppamorim/Dragger)
+- [Tranference activity](https://stackoverflow.com/questions/16332064/how-to-create-transparent-activity-in-android)
+- [Create Splash screen](https://stackoverflow.com/questions/5486789/how-do-i-make-a-splash-screen)
+   
   
 ## Lib Android
 - Dialog, Progress similar iOS:
-  + https://github.com/Samehadar/IOSDialog
-  + https://github.com/MagicDog707/iOSDialog
-  + https://github.com/Kaopiz/KProgressHUD
-  + https://github.com/t-kurimura/flickabledialog (Drag dialog)
- - Signature view in android
-   + https://github.com/zahid-ali-shah/SignatureView
- 
+  + [Type 1](https://github.com/Samehadar/IOSDialog)
+  + [Type 2](https://github.com/MagicDog707/iOSDialog)
+  + [Type 3](https://github.com/Kaopiz/KProgressHUD)
+  + [Type 4](https://github.com/t-kurimura/flickabledialog (Drag dialog))
+ - [Signature view in android](https://github.com/zahid-ali-shah/SignatureView)
   
 ## Image
-- Circle image with Picasso
-  + https://stackoverflow.com/questions/26112150/android-create-circular-image-with-picasso
+- [Circle image with Picasso](https://stackoverflow.com/questions/26112150/android-create-circular-image-with-picasso)
   
 ## Pass data 
-- With Seriable
-  + https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable
-- With Eventbus
-  + https://tutorialwing.com/android-eventbus-library-example/
-- Start Activity for Result
-  + https://stackoverflow.com/questions/15662258/how-to-save-a-bitmap-on-internal-storage
+- [With Seriable](https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable)
+- [With Eventbus](https://tutorialwing.com/android-eventbus-library-example/)
+- [Start Activity for Result](https://stackoverflow.com/questions/15662258/how-to-save-a-bitmap-on-internal-storage)
 
 ## Animation View
-- Show/hide layout in android:
-  + https://colinyeoh.wordpress.com/2012/10/07/simple-android-animation-on-view-gonevisible/
+- [Show/hide layout in android](https://colinyeoh.wordpress.com/2012/10/07/simple-android-animation-on-view-gonevisible/)
 
 ## Text, Edditext
 - Disable edit/unable edit in edditext
