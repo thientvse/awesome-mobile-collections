@@ -9,7 +9,7 @@ Pull requests are welcome!
 I'd like to improve this library with your help! If you've fixed a bug or have a feature you've added, just create a pull request. Issues can be reported on the github issue tracker.
 
 ## Android Studio
-- Config color log in android studio:
+- [Config color log in android studio](https://stackoverflow.com/questions/19933731/colored-logcat-in-android-studio-by-colorpid)
   + https://stackoverflow.com/questions/19933731/colored-logcat-in-android-studio-by-colorpid
 - Create live template
   + https://riggaroo.co.za/create-live-templates-android-studio/
