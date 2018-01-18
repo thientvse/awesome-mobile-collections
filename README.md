@@ -37,6 +37,8 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
   + [Type 3](https://github.com/Kaopiz/KProgressHUD)
   + [Type 4](https://github.com/t-kurimura/flickabledialog (Drag dialog))
  - [Signature view in android](https://github.com/zahid-ali-shah/SignatureView)
+## Google Maps
+- [Open Google Maps from app with direction](https://stackoverflow.com/questions/2662531/launching-google-maps-directions-via-an-intent-on-android)
   
 ## Image
 - [Circle image with Picasso](https://stackoverflow.com/questions/26112150/android-create-circular-image-with-picasso)
