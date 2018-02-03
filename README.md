@@ -13,6 +13,9 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 - [Create live template](https://riggaroo.co.za/create-live-templates-android-studio/)
 - [Auto import all missing lib](https://stackoverflow.com/questions/16615038/what-is-the-shortcut-to-auto-import-all-in-android-studio)
 
+## Pattern
+- [Android architecture components](https://github.com/googlesamples/android-architecture-components)
+
 ## Android Element
 - [Change font in Textview, Edittext easily - 1](https://stackoverflow.com/questions/12128331/how-to-change-fontfamily-of-textview-in-android) 
 - [Change font in Textview, Edittext easily - 2](https://stackoverflow.com/questions/19691530/valid-values-for-androidfontfamily-and-what-they-map-to) 
