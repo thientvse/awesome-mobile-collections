@@ -10,6 +10,8 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 
 ## UX/UI showcase
 - [Android Niceties](http://androidniceties.tumblr.com/)
+- [Dribble Material Design](https://dribbble.com/tags/material_design)
+- [Uplabs design](https://www.uplabs.com/android)
 
 ## Android Studio
 - [Config color log in android studio](https://stackoverflow.com/questions/19933731/colored-logcat-in-android-studio-by-colorpid)
