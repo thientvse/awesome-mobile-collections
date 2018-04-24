@@ -30,6 +30,7 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 - [Underline Text - 1](https://stackoverflow.com/questions/5645789/how-to-set-underline-text-on-textview)
 - [Underline Text - 2](https://stackoverflow.com/questions/2394935/can-i-underline-text-in-an-android-layout)
 - [Hide soft keyboard when click outside edittext](https://stackoverflow.com/questions/4165414/how-to-hide-soft-keyboard-on-android-after-clicking-outside-edittext)
+- [Shadow TextView](https://stackoverflow.com/questions/3297437/shadow-effect-for-a-text-in-android)
   
 ## Activity, Fragment
 - [Activity Life cycle](https://stackoverflow.com/questions/8515936/android-activity-life-cycle-what-are-all-these-methods-for)
