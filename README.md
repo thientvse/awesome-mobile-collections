@@ -49,7 +49,7 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
  - [Signature view in android](https://github.com/zahid-ali-shah/SignatureView)
  
 ## Retrofit 
--[Error java.io.EOFException: End of input at line 1 column 1](https://github.com/abhinav272/Demo/blob/master/app/src/main/java/com/android/shopr/utils/NullOnEmptyConverterFactory.java)
+ - [Error java.io.EOFException: End of input at line 1 column 1](https://github.com/abhinav272/Demo/blob/master/app/src/main/java/com/android/shopr/utils/NullOnEmptyConverterFactory.java)
  
 ## Google Maps
 - [Open Google Maps from app with direction](https://stackoverflow.com/questions/2662531/launching-google-maps-directions-via-an-intent-on-android)
