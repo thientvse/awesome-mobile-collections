@@ -101,6 +101,9 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 ## WheelPicker
 - WheelCustom:
   + https://github.com/AigeStudio/WheelPicker
+  
+## Toolbar
+- [Hide icon in toolbar](https://stackoverflow.com/questions/28802816/how-to-hide-navigation-drawer-indicator-while-using-appcompat21)
 
 
 
