@@ -17,7 +17,7 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 - [Config color log in android studio](https://stackoverflow.com/questions/19933731/colored-logcat-in-android-studio-by-colorpid)
 - [Create live template](https://riggaroo.co.za/create-live-templates-android-studio/)
 - [Auto import all missing lib](https://stackoverflow.com/questions/16615038/what-is-the-shortcut-to-auto-import-all-in-android-studio)
-- [Error aapt.exe'' finished with non-zero > exit value 1] (https://stackoverflow.com/questions/29249986/finished-with-non-zero-exit-value?page=2&tab=active#tab-top)
+- [Error aapt.exe finished with non-zero > exit value 1](https://stackoverflow.com/questions/29249986/finished-with-non-zero-exit-value?page=2&tab=active#tab-top)
 ## Gradle
 - [Config version lib in gradle](https://segunfamisa.com/posts/android-gradle-extra-properties)
 ## Pattern
