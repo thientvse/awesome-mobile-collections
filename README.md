@@ -98,6 +98,7 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
   + https://stackoverflow.com/questions/26543131/how-to-implement-endless-list-with-recyclerview
   + https://gist.github.com/nesquena/8a976dd3d6f866518db2cfe7f9cb0db7
 - [Recycler view click row and inside row together](http://www.codexpedia.com/android/defining-item-click-listener-for-recyclerview-in-android/)
+- [Endless recyclerView](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews-and-RecyclerView)
   
 ## WheelPicker
 - WheelCustom:
